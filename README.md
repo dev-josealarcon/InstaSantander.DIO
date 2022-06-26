@@ -1,5 +1,6 @@
 # InstaSantander.DIO
-Desafio do projeto - Recriando a página inicial do Instagram.
+
+# Project Challenge - Recreating the Instagram homepage.
 
  <img src="/assets/img/animate.gif" alt="Gif animado">
  
